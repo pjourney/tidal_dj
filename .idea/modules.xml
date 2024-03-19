@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/gpt_client.iml" filepath="$PROJECT_DIR$/gpt_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tidal_client.iml" filepath="$PROJECT_DIR$/tidal_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tidal_dj.iml" filepath="$PROJECT_DIR$/tidal_dj.iml" />
+    </modules>
+  </component>
+</project>
